@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nutrition App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_header">Nutrition Analysis Api Demo</string>
+    <string name="enter_data">Enter each ingredient on a new line</string>
+    <string name="data">1 cup rice,\n\10 oz chickpeas</string>
+    <string name="nutrition_facts">Nutrition Facts</string>
+</resources>
